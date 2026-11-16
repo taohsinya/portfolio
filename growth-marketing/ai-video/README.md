@@ -4,6 +4,12 @@
 
 *▶️ "The Vet": a finished brand video. Click to watch on YouTube*
 
+> **Goal:** make video ads fast and cheap without lowering the bar.
+>
+> **How:** hook ideas → a strict AI scorer that ranks and kills weak scripts → storyboard → AI-generated video.
+>
+> **Result:** one idea into 42 versions; about US$2–3 per install in the US, lowest on YouTube.
+
 **The short version:** I built a production line for short video ads, made with AI, for an AI money assistant. The most important part isn't the video generator. It's a scoring agent that ranks every script against the others, kills weak ones, and asks one hard question: *"Would this ad still work if you put a competitor's logo on it?"* Only the scripts that pass get storyboarded and made into video.
 
 - **Product:** a consumer AI money assistant (US market, English ads)
