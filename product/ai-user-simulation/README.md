@@ -1,5 +1,11 @@
 # Testing with simulated users
 
+> **Goal:** find out whether a feature works before real users see it.
+>
+> **How:** AI-simulated users before launch, compared with real data after, with a correction for how optimistic AI is.
+>
+> **Result:** a repeatable loop from simulation to real data; see the [Financial Fitness Score](../financial-fitness-score/) for a full example.
+
 AI can play hundreds of users in minutes. That makes it a powerful way to test a product before launch, and an easy way to fool yourself. This page is about how I used it and how I kept it honest.
 
 ## Three rounds of checks
