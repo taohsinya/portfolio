@@ -32,6 +32,6 @@ I take products into new markets and make them grow: 12 years across 50+ countri
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/hsinyatao/) · [GitHub profile](https://github.com/taohsinya) · [繁體中文版](https://github.com/taohsinya/portfolio-zh-tw)
+[LinkedIn](https://www.linkedin.com/in/hsinyatao/) · [GitHub profile](https://github.com/taohsinya)
 
 Licensed under [CC BY-NC 4.0](LICENSE): free to use and adapt with credit, not for commercial use. Nothing here is investment advice.
