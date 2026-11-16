@@ -1,5 +1,11 @@
 # An AI content engine that publishes daily and checks its own facts
 
+> **Goal:** publish useful finance articles every day without publishing mistakes.
+>
+> **How:** AI drafts → quality score → fact-check agent → human sign-off → scheduled publishing, with an alert if it stops.
+>
+> **Result:** a daily English and Chinese content engine where every number traces to a primary source.
+
 **What it is:** a system I designed for an AI money assistant (a consumer
 personal-finance app). AI agents write in-depth articles in English and Traditional
 Chinese. Each article passes a series of checks before a human signs it off. A
