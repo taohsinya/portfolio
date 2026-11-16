@@ -1,5 +1,11 @@
 # Perceived value and NPS: putting a number on what to build
 
+> **Goal:** decide what to build with numbers, not opinions.
+>
+> **How:** score every feature on perceived value (will people pay?) and NPS (is the experience good enough?), and set a kill rule before launch.
+>
+> **Result:** simulated NPS rose from −50 to +28 over four releases.
+
 ## The rule
 
 Every feature that goes into development has to pass two tests:
